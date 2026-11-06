@@ -1,0 +1,11 @@
+[
+{
+  "model": "profiles.profile",
+  "pk": 8,
+  "fields": {
+    "title": "Perkenalan",
+    "content": "hajimemashite, watashi wa Timothy.               Senang bisa berteu dengan anda. Apakah saya mengenal anda? Jika tidak silahkan ke about dimana anda akan mengetahui segala hal tentang diri ku",
+    "gambar": "profile_images/DSCN1497.JPG"
+  }
+}
+]
